@@ -25,7 +25,7 @@
   "bugs": "https://github.com/skylarkjs/skylark/issues",
   "dependencies": {},
   "dependencies": {
-    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git#master"
+    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git"
   },
   "skylarkjs": {
     "directories": {
